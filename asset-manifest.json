@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/admotion_test/static/css/main.db0c265d.chunk.css",
-    "main.js": "/admotion_test/static/js/main.766998f9.chunk.js",
-    "main.js.map": "/admotion_test/static/js/main.766998f9.chunk.js.map",
+    "main.js": "/admotion_test/static/js/main.0997573e.chunk.js",
+    "main.js.map": "/admotion_test/static/js/main.0997573e.chunk.js.map",
     "runtime-main.js": "/admotion_test/static/js/runtime-main.d999a458.js",
     "runtime-main.js.map": "/admotion_test/static/js/runtime-main.d999a458.js.map",
     "static/js/2.d67f95cf.chunk.js": "/admotion_test/static/js/2.d67f95cf.chunk.js",
     "static/js/2.d67f95cf.chunk.js.map": "/admotion_test/static/js/2.d67f95cf.chunk.js.map",
     "index.html": "/admotion_test/index.html",
-    "precache-manifest.86d813331e2b0c5f009e0eb0d6656884.js": "/admotion_test/precache-manifest.86d813331e2b0c5f009e0eb0d6656884.js",
+    "precache-manifest.0900e4bfba36f4d1af24b9d5a1f8ce5f.js": "/admotion_test/precache-manifest.0900e4bfba36f4d1af24b9d5a1f8ce5f.js",
     "service-worker.js": "/admotion_test/service-worker.js",
     "static/css/main.db0c265d.chunk.css.map": "/admotion_test/static/css/main.db0c265d.chunk.css.map",
     "static/js/2.d67f95cf.chunk.js.LICENSE.txt": "/admotion_test/static/js/2.d67f95cf.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d999a458.js",
     "static/js/2.d67f95cf.chunk.js",
     "static/css/main.db0c265d.chunk.css",
-    "static/js/main.766998f9.chunk.js"
+    "static/js/main.0997573e.chunk.js"
   ]
 }
